@@ -2,10 +2,12 @@
     "name": "web36/performance",
     "description": "A development tool for monitoring application performance and debugging bottlenecks in your code.",
     "type": "library",
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mehmet Çanak"
+            "name": "Mehmet Çanak",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "stable",
